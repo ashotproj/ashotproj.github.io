@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Inspiration&family=Roboto:wght@500&display=swap');
+body{
+   margin: 0;
+   padding: 0;
+   background-color: #fff;
+   font-family: 'Roboto';
+   max-height: 100vh;
+}
+
+.div1{
+ background-image: url('images/image\ 1.png');
+ background-size: cover;
+ width: 100%;
+ min-height: 800px;
+}
+.logo{
+  position: relative;
+  top: 19px;
+  left: 20px;
+  display: inline-block;
+}
+.logo img{
+   margin-left: -3px;
+}
+.logo img:nth-child(2){
+   position: relative;
+   top: 4px;
+}
+.nav1 .nav2{
+   display: inline-block;
+}
+.nav1 ul li,.nav2 ul li{
+   display: inline-block;
+   color: #1A1818;
+   font-family:  'Roboto', sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 15px;
+   text-transform: lowercase;
+   line-height: 15px;
+   margin-left:15px;
+}
+.nav1 ul li a,.nav2 ul li a{
+   text-decoration: none;
+   color:#1A1818;
+   font-family:  'Roboto', sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 15px;
+}
+.nav2 ul li:nth-child(2){
+   color: rgba(26, 24, 24, 0.25);
+}
+.nav2 ul li:nth-child(2) a{
+   color: rgba(26, 24, 24, 0.25);
+}
+.nav1{
+   position: absolute;
+   left: 82px;
+   top: 11px;
+}
+.nav2{
+   position: absolute;
+   right: 20px;
+   top: 11px;
+
+}
+.text1 h1{
+   font-size: 57px;
+   font-family: 'Roboto';
+   font-style: bold;
+   letter-spacing: 1.2px;
+}
+.text1{
+ position: absolute;
+ left: 18px;
+ top: 291px;
+}
+.text1 p{
+ font-family: 'Roboto';
+ font-size: 15px;
+ line-height: 20px;
+ position: relative;
+ top: -15px;
+ left: 5px;
+}
+.div2 img{
+ width: 820px;
+ height: 1113px;
+}
+.div2{
+   display: inline-block;
+   margin-left: 528px;
+   margin-top: 115px;
+}
+.div3{
+   position: relative;
+   bottom: 720px;
+   left: 18px;
+   display: inline-block;
+}
+.div3 h1{
+   font-family: 'Roboto';
+   font-size: 60px;
+}
+.div3 p{
+   font-size: 14px;
+   position: relative;
+   top: 340px;
+   font-family: 'Roboto';
+}
+.div4{
+   margin-left: 18px;
+   position: relative;
+   top: -200px;
+}
+.div4 img{
+   height: 924px;
+}
+.div5{
+   overflow: hidden;
+   display: inline-block;
+   position: relative;
+   left: 883px;
+   top: -1000px;
+}
+.div5 p{
+   font-family: 'Roboto';
+   font-size: 14px;
+   font-weight: 400;
+}
+.p1{
+   position: relative;
+   left: 445px;
+   top: -45px;
+   display: inline-block;
+}
+.section{
+   position: relative;
+   top: -823px;
+}
+.section img{
+   overflow: hidden;
+   width: 835px;
+   height: 626px;
+   position: relative;
+   left: 18px;
+}
+.section h1{
+   font-family: 'Roboto';
+   font-size: 60px;
+   line-height: 1;
+  
+}
+.section2{
+   display: inline-block;
+   overflow: hidden;
+   width: 835px;
+   height: 626px;
+}
+.section3{
+   display: inline-block;
+   position: relative;
+   left: 89px;
+   top: -280px;
+   max-width: 424px;
+}
+.section p{
+   display: inline-block;
+   position: relative;
+   right: 300px;
+}
+.ator{
+   position: relative;
+   bottom: 533px;
+}
+.atorp{
+   margin-left: 535px;
+   margin-top: -3px;
+}
+.skameyka{
+   position: relative;
+   bottom: 545px;
+}
+.section4{
+   position: relative;
+   top: -100px;
+}
+.finish{
+   position: relative;
+   top: -1325px;
+}
+.wrapp1{
+   font-size: 58px;
+   margin-left: 300px;
+   text-transform: lowercase;
+}
+.wrapp2{
+   font-size: 45px;
+   margin-left: 18px;
+}
+.wrapp3{
+   font-size: 46px;
+   margin-left: 84%;
+}
+hr{
+   position: relative;
+   top: -1350px;
+   width: 98%;
+}
+footer{
+   position: absolute;
+   top: 7500px;
+ height: 250px;
+ 
+}
+footer h6 ,ul{
+   display: inline-block;
+}
+footer ul li{
+   list-style-type: none;
+   font-size: 15px;
+   font-weight: 400;
+}
+footer h6{
+   font-size: 15px;
+   font-weight: 400;
+   position: relative;
+   top: -100px;
+   left: 20px;
+}
+footer ul{
+   position: relative;
+   right: 110px;
+}
+.ul2 , .ul3{
+   position: relative;
+   left: -120px;
+   top: -18px;
+}
+.ul4{
+   position: relative;
+   top: -55px;
+   left: -103px;
+}
+.span , .span2 span{
+   color: #b3b3b3;
+}
+.span{
+ position:absolute;
+ left: 18px;
+}
+.spanit{
+   margin-left: 20px;
+}
+.span2{
+   width:229px ;
+   position: absolute;
+   right: -70%;
+}
